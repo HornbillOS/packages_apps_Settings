@@ -15,6 +15,9 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- About phone screen, status item label  [CHAR LIMIT=40] -->
+    <string name="custom_firmware_version">Versão Hornbill</string>
+
     <!-- Pure black -->
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Fundo preto puro para tema escuro</string>
