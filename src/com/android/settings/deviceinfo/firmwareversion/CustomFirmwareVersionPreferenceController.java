@@ -24,7 +24,7 @@ import com.android.settings.core.BasePreferenceController;
 
 public class CustomFirmwareVersionPreferenceController extends BasePreferenceController {
 
-    private static final String VERSION_PROPERTY = "ro.custom.display.version";
+    private static final String VERSION_PROPERTY = "ro.custom.build.version";
 
     public CustomFirmwareVersionPreferenceController(Context context, String preferenceKey) {
         super(context, preferenceKey);
